@@ -1,0 +1,11 @@
+crewai
+'crewai[tools]'
+dotenv
+google-generativeai
+langchain-google-genai
+textwrap
+google-search-results
+langchain-openai
+PyPDF2
+streamlit
+dotenv
